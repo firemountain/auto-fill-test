@@ -14,11 +14,11 @@ https://us-tabitorder.tabit.cloud/?site=5d31f21f385cc47523a671c9#/start
 
 When we get to this screen in the webview flow. (you get there by adding some items to the cart and atempting to pay) 
 
-![](us-tabitorder.PNG)
+![](us-tabitorder.png)
 
 We want to autofill the **Credit Card Number** **Expiration** and **CVV** by grabing the Credit Card info stored on a dummy user in Stripe using test mode. 
 
-![](striptest.png)
+![](stripetest.png)
 
 
 
