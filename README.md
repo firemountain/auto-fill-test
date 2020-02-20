@@ -16,7 +16,7 @@ When we get to this screen in the webview flow. (you get there by adding some it
 
 <img src="us-tabitorder.png" width=300px />
 
-We want to autofill the **Credit Card Number** **Expiration** and **CVV** by grabing the Credit Card info stored on a dummy user in Stripe using test mode. 
+We want to autofill the **Credit Card Number**, the **Expiration**, and the **CVV** by grabing the Credit Card info stored on a dummy user in Stripe using test mode. 
 
 ![](stripetest.png)
 
